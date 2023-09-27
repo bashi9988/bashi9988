@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bashi9988&label=Profile%20views&color=0e75b6&style=flat" alt="bashi9988" /> </p>
+ 
 
 - 🔭 I’m currently working on [SLIIT](sliit.lk)
 
